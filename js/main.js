@@ -151,8 +151,8 @@ $("#next_button").click(function(){
 
 
 if(navigator.language == "es"){
-	change_language("es");
 	populate_works(works_es);
+	change_language("es");
 } else {
 	populate_works(works_en);
 	change_language("en");
