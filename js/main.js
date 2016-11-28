@@ -9,11 +9,11 @@ var show_elements = function() {
 	$(".lateral_bar").animate({"left" : "0%"}, 1000);
 }
 
-$(document).ready(function() {
+$(window).on("load", function() {
   // Animate loader off screen
-  $(".se-pre-con").fadeOut();
-  console.log("page loaded, waiting for elements to show");
-  setTimeout(show_elements, 500);
+	$(".se-pre-con").fadeOut();
+	console.log("page loaded, waiting for elements to show");
+	setTimeout(show_elements, 500);
 });
 
 // $(".arrow_box").mouseover(function(){
