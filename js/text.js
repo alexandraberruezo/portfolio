@@ -4,11 +4,14 @@ var main_subtitle_es = "Dirección Artistica";
 var main_subtitle_en = "Production Designer";
 var title_about_section_es = "Hola, que tal?";
 var title_about_section_en = "Hello, how are you?";
-var description_about_section_es = 'Creo que la dirección artística debe ser honesta y limpia, pasar casi inadvertida. Debe emocionar y acompañar al resto de elementos que llenan la pantalla. Conseguir un equilibrio prestando atención hasta al detalle más mínimo y nunca debe perder su intención. </br><br/> \
+var description_about_section_es = 'Creo que la dirección artística debe ser honesta y limpia, pasar casi inadvertida. Debe emocionar y acompañar al resto de elementos que llenan la pantalla. Conseguir un equilibrio prestando atención hasta al detalle más mínimo y nunca debe perder su intención. <br/><br/> \
 	Me llamo Alexandra y soy directora artística en cine. Vivo en Barcelona, mi ciudad favorita, aunque por mi condición de nómada no descarto volar hacia otro destino en busca de un proyecto desafiante, salvaje. <br/><br/> \
 	Fetichista de los objetos, de la simplicidad y del caos, he trabajado en un laboratorio de color, he hecho de corresponsal en Bèlgica, he sido Community Manager y he realizado fashion films, videos y fotografías para diferentes empresas. <br/><br/> \
 	“All creative work begines by doing something with the hands. Creation is simly a problem and design is the way out”. </br>Charles James⁠⁠⁠⁠';
-var description_about_section_en = "I'm the bellaest";
+var description_about_section_en = 'I believe the art direction must be honest and clean, remain almost unnoticed. It must elicit emotion and accompany the rest of the elements to fulfill the screen. Achieve the equilibrium with a design well-thought through the smallest detail. And it must never loose its intention.<br/><br/> \
+My name is Alexandra and I am a production designer in cinema based in Barcelona, my favorite city. Nevertheless, my nomad condition allows me to work or move to any destination seeking for challenging, savage projects.<br/><br/> \
+Fetishist of the objects, simplicity and chaos, I have worked in a color laboratory, I have been correspondent in Belgium, I have been Community Manager and I have made fashion films, videos and pictures for several companies.<br/><br/> \
+“All creative work begins by doing something with the hands. Creation is simly a problem and design is the way out”. Charles James';
 
 
 // ----------- SPANISH -------------
