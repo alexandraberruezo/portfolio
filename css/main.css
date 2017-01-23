@@ -257,15 +257,13 @@ iframe {
 
 #about {
 	background-color: #fbfbfb;
-	background-image:     linear-gradient(
-      rgba(255, 255, 255, 0.45), 
-      rgba(255, 255, 255, 0.45)
-    ),url("images/alexandra.jpg");
+	background-image:  url("images/alexandra.jpg");
 	background-size: 70vh;
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	z-index: 1000000;
 }
+
 
 #about h1 {
 	font-size: 48px;
@@ -416,6 +414,13 @@ iframe {
 
 @media screen and (max-width: 768px) {
 	
+	#about {
+		background-image:     linear-gradient(
+	      rgba(255, 255, 255, 0.45), 
+	      rgba(255, 255, 255, 0.45)
+	    ),url("images/alexandra.jpg");
+	}
+
 	.work_box {
 		height: 20vh;
 		width: 80vw;
