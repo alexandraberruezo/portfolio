@@ -2423,7 +2423,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 50%;
 		}
 
 			.image.left img, .image.right img {
@@ -2432,7 +2432,7 @@
 
 		.image.left {
 			float: left;
-			margin: 0 2rem 2rem 0;
+			margin: 2rem 2rem 2rem 0;
 			top: 0.75rem;
 		}
 
